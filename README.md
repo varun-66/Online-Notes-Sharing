@@ -1,6 +1,6 @@
 # Online-Notes-Sharing
 
-This is a notes sharing platform where users can view and upload the files. Admin has authority to approve or delete notes uploaded by any user if it is found tobe inappropriate.
+This is a note sharing website that allows students to upload notes and share it with their peers. Admin has authority to approve or delete notes uploaded by any user if it is found tobe inappropriate.
 
 Multiple user access: Allows multiple type of users(teacher/student/admin) to login
 
