@@ -17,10 +17,9 @@ College-Notes-Gallery Admin Panel ->
 
 - PHP 5.3 or higher recommended 
 - MySQL DB
-- Ability to write .htaccess file for apache mod_rewrite
 
 ### Installation
-- Upload College-Notes-Gallery to the directory of your choice. (E.g :  /var/www/html/college-notes-gallery )
+- Upload College-Notes to the directory of your choice. (E.g :  /var/www/html/college-notes-gallery )
 - Import MySql Db file to your database software (E.g : PhpMyAdmin -> Create DB -> Import notes.sql  )
 - Configure connection between your database and server by modifying the /includes/connection.php file
 - Navigate to the installation in your browser ( E.g :  http://localhost/college-notes-gallery )
