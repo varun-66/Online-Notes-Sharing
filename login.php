@@ -48,8 +48,8 @@ else {
   <div class="login-card">
     <h1>Log-in</h1><br>
   <form method="POST">
-    <input type="text" name="user" placeholder="Username" required="">
-    <input type="password" name="pass" placeholder="Password" required="">
+    <input type="text" name="user" placeholder="Please Enter Username" required="">
+    <input type="password" name="pass" placeholder="Please Enter Password" required="">
     <input type="submit" name="login" class="login login-submit" value="login">
   </form>
     
